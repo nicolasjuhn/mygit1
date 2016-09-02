@@ -6,6 +6,9 @@ public class GitTest1 {
 		// TODO Auto-generated method stub
 		System.out.println("hola vien glascias~! Guten tag~!");
 		System.out.println("안녕하세요~! 점심에 김치?~!");
+		//아헤!
+		//어휴 호랑이
+		//주석 커밋
 	}
 
 }
